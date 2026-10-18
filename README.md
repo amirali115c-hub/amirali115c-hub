@@ -10,7 +10,7 @@ Founder of [Clienvora](https://www.clienvora.com), a content marketing and SEO a
 
 ### Open source
 
-- [clienvora-seo-statistics](https://github.com/clienvora/clienvora-seo-statistics) - 177 sourced SEO statistics as JSON and CSV, CC BY 4.0
+- [clienvora-seo-statistics](https://github.com/Clienvora/clienvora-seo-statistics) - 177 sourced SEO statistics as JSON and CSV, CC BY 4.0
 - [technical-seo-checklist](https://github.com/amirali115c-hub/technical-seo-checklist) - interactive technical SEO checklist with code examples
 
 ### Find me
